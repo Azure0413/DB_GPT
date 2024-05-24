@@ -1,0 +1,12 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 60%;
+    position: fixed;
+    right: 0;
+  }
+  
+  .navbar img {
+    margin-left: auto;
+  }
