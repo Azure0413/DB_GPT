@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/DB_GPT/static/css/main.3d0112c2.css",
-    "main.js": "/DB_GPT/static/js/main.b9326aea.js",
+    "main.js": "/DB_GPT/static/js/main.47114d69.js",
     "static/js/453.e44e2397.chunk.js": "/DB_GPT/static/js/453.e44e2397.chunk.js",
     "static/media/erm.png": "/DB_GPT/static/media/erm.ed9ea89d160fd0d82e90.png",
     "index.html": "/DB_GPT/index.html",
     "main.3d0112c2.css.map": "/DB_GPT/static/css/main.3d0112c2.css.map",
-    "main.b9326aea.js.map": "/DB_GPT/static/js/main.b9326aea.js.map",
+    "main.47114d69.js.map": "/DB_GPT/static/js/main.47114d69.js.map",
     "453.e44e2397.chunk.js.map": "/DB_GPT/static/js/453.e44e2397.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d0112c2.css",
-    "static/js/main.b9326aea.js"
+    "static/js/main.47114d69.js"
   ]
 }
