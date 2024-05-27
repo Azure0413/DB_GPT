@@ -1,0 +1,15 @@
+.btnc{
+    padding: 10px;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    background-color: #D3DFE5;
+    color:white;
+}
+
+.btnc:hover{
+    font-weight: bold;
+    padding-top: 10px;
+    border: none;
+    background-color: #5391FF;
+}

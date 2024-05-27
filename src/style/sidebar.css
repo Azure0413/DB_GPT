@@ -1,0 +1,61 @@
+.sidebar {
+    background-color: #F0F4F6;
+    width: 350px;
+    height: 100vh;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+    padding-left: 30px;
+  }
+  
+  .sidebar .aa {
+    text-decoration: none;
+    color: #96A6BC;
+    margin-bottom: 10px;
+  }
+  
+  .sidebar .aa div {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    width:90%;
+    font-weight: bold;
+    padding-left: 10px;
+    border-radius: 10px;
+  }
+
+  .logos{
+    position: absolute;
+    bottom: 5px;
+    left: 100px;
+  }
+
+  .sidebar .aa div:hover {
+    background-color: #D3DFE5;
+  }
+
+  .dbc {
+    background-color: #D3DFE5;
+    color: #333F50;
+  }
+
+  .chat {
+    background-color: #D3DFE5;
+    color: #333F50;
+  }
+
+  .btnn{
+    padding: 10px;
+    font-weight: bold;
+    border-radius:10px;
+    width: 90%;
+    background-color:#FAFBFC;
+    color: #333F50;
+    border: 2px solid #333F50
+  }
+
+  .btnn:hover{
+    border:2px solid #FF0000;
+    color:#FF0000;
+  }
